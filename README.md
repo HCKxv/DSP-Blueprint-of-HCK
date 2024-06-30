@@ -4,7 +4,7 @@
 
 ### 下载方法
 
-点击上方绿色`<p style="color:#090">Code</p>`按钮 -> 点击`Local` -> 点击`Download ZIP`
+点击上方绿色<p style="color:#090">Code</p>按钮 -> 点击`Local` -> 点击`Download ZIP`
 
 ### 实用网站
 <a href="https://dsp-calc.pro/">戴森球计划量化计算器</a><br />
