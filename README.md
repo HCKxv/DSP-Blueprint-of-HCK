@@ -2,7 +2,7 @@
 
 ### 下载方法
 
-点击上方绿色`Code`按钮 -> 点击`Local` -> 点击`Download ZIP`
+点击上方绿色`<>Code`按钮 -> 点击`Local` -> 点击`Download ZIP`
 
 或者 <a href="https://pan.baidu.com/s/1sLEltfRFJGK0uP-eWTMh_g">百度网盘 提取码1619</a><br />
 
