@@ -1,6 +1,6 @@
 # DSP-blueprint-of-HCK
 
-### <a href="https://space.bilibili.com/397260674">氢碳钾xv</a><br />
+### <a href="https://space.bilibili.com/397260674" target = "_blank">氢碳钾xv</a><br />
 
 ### 下载方法
 
