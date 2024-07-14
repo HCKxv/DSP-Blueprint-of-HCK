@@ -5,6 +5,9 @@
 点击上方绿色`Code`按钮 -> 点击`Local` -> 点击`Download ZIP`
 
 或者 <a href="https://pan.baidu.com/s/1sLEltfRFJGK0uP-eWTMh_g">百度网盘 提取码1619</a><br />
+
+> 进入游戏按`O`键打开蓝图界面并点击上方`查看蓝图文件`打开蓝图文件夹，解压下载好的压缩包并将放入蓝图文件夹中
+
 ### 实用网站
 <a href="https://dsp-calc.pro/">戴森球计划量化计算器</a><br />
 <a href="https://cying.xyz/DSP/editBluePrint/">DSP蓝图变换工具</a><br />
