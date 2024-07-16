@@ -12,7 +12,7 @@
 
 ### 实用网站
 <a href="https://dsp-calc.pro/">戴森球计划量化计算器</a><br />
-<a href="https://dsp.11shou.cn">戴森球计划量化计算器b</a><br />
+<a href="https://dsp.11shou.cn">戴森球计划量化计算器2</a><br />
 <a href="https://cying.xyz/DSP/editBluePrint/">DSP蓝图变换工具</a><br />
 <a href="https://lsq5i5j.github.io/darkfogfarm/">黑雾农场生成器</a><br />
 <a href="https://huww98.github.io/dsp_blueprint_editor/">戴森球计划蓝图预览</a><br />
