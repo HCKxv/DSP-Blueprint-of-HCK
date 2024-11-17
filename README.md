@@ -2,9 +2,9 @@
 
 ### 下载方法
 
-点击上方绿色 **`Code`** 按钮 -> 点击 **`Local`**  -> 点击 **`Download ZIP`** 
+<a href="https://pan.baidu.com/s/1sLEltfRFJGK0uP-eWTMh_g">百度网盘 提取码1619</a><br />
 
-或者 <a href="https://pan.baidu.com/s/1sLEltfRFJGK0uP-eWTMh_g">百度网盘 提取码1619</a><br />
+或者点击上方绿色 **`Code`** 按钮 -> 点击 **`Local`**  -> 点击 **`Download ZIP`** 
 
 > 进入游戏按 **`o`** 键打开蓝图界面并点击上方 **`查看蓝图文件`** 打开蓝图文件夹，将下载好的文件解压并将放入蓝图文件夹中
 
