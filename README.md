@@ -2,7 +2,7 @@
 
 ### 下载方法
 
-<a href="https://pan.baidu.com/s/1sLEltfRFJGK0uP-eWTMh_g">百度网盘 提取码1619</a><br />
+<a href="https://pan.baidu.com/s/1sLEltfRFJGK0uP-eWTMh_g">百度网盘 提取码1619</a><a href="https://hck39.lanzout.com/b00y9rzkbi">蓝奏云 密码:1619</a><br />
 
 或者点击上方绿色 **`Code`** 按钮 -> 点击 **`Local`**  -> 点击 **`Download ZIP`** 
 
