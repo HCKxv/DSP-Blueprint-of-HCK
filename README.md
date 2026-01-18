@@ -7,8 +7,8 @@
 > 进入游戏按 **`o`** 键打开蓝图界面并点击上方 **`查看蓝图文件`** 打开蓝图文件夹，将下载好的文件解压并将放入蓝图文件夹中
 
 ### 实用网站
-<a href="https://dsp-calc.pro/">戴森球计划量化计算器</a><br />
-<a href="https://dsp.11shou.cn">戴森球计划量化计算器2</a><br />
+<a href="https://dsp-calc.pro/">戴森球计划量化计算器（莳槡）-推荐</a><br />
+<a href="https://dsp.11shou.cn">戴森球计划量化计算器-树形图</a><br />
 <a href="https://cying.xyz/DSP/editBluePrint/">DSP蓝图变换工具</a><br />
 <a href="https://lsq5i5j.github.io/darkfogfarm/">黑雾农场生成器</a><br />
 <a href="https://huww98.github.io/dsp_blueprint_editor/">戴森球计划蓝图预览</a><br />
