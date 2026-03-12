@@ -117,7 +117,8 @@ function loadBP(name){
 
 function cvBP(bid) {
     var BPtext = document.getElementById(bid).textContent;
-    navigator.clipboard.writeText(BPtext).then(alert('蓝图已复制到剪贴板'));
+    navigator.clipboard.writeText(BPtext)
+    .then(()=>alert('蓝图已复制到剪贴板'));
 }
 
 init();
