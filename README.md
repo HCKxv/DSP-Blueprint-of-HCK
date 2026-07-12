@@ -11,9 +11,11 @@
 <a href="https://dsp-calc.pro/">戴森球计划量化计算器（莳槡）-推荐</a><br />
 <a href="https://dsp.11shou.cn">戴森球计划量化计算器-树形图</a><br />
 <a href="https://github.com/botany233/dsp_search_seed">搜种器</a><br />
-<a href="https://lsq5i5j.github.io/darkfogfarm/">黑雾农场生成器</a><br />
 <a href="https://cying.xyz/DSP/editBluePrint/">DSP蓝图变换工具</a><br />
-<a href="https://HCKxv.github.io/DSB">球体蓝图</a><br />
+<a href="https://hckxv.github.io/dysonBlueprintParser/">戴森球蓝图预览工具</a><br />
+<a href="https://lsq5i5j.github.io/darkfogfarm/">黑雾农场生成器</a><br />
+<a href="https://sgwswordemperor.github.io/">戴森球计划 蓝图生成器</a><br />
+<a href="https://HCKxv.github.io/DSB">球体蓝图集</a><br />
 <a href="https://github.com/DSPBluePrints">DSPBluePrints蓝图仓库</a><br />
 <a href="https://github.com/DSPBluePrints/FactoryBluePrints">FactoryBluePrints工厂蓝图</a><br />
 <a href=""></a><br />
